@@ -1,0 +1,13 @@
+--2017-11-28 00:31:23--  http://www.wsj.com/mdc/public/page/2_3021-activnyse-actives.html
+Resolving www.wsj.com (www.wsj.com)... 13.33.164.72, 13.33.164.116, 13.33.164.173, ...
+Connecting to www.wsj.com (www.wsj.com)|13.33.164.72|:80... connected.
+HTTP request sent, awaiting response... 200 ‘wget-log’
+Length: unspecified [text/html]
+Saving to: ‘-ss.html’
+
+     0K .......... .......... .......... .......... .......... 1.41M
+    50K .......... .......... .......... .......... .......... 15.6M
+   100K .......... ...                                         16.3M=0.04s
+
+2017-11-28 00:31:54 (2.88 MB/s) - ‘-ss.html’ saved [116300]
+
